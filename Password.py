@@ -94,7 +94,7 @@ def is_this_a_password(email, index, password):
 
 if __name__ == "__main__":
 
-    print('\n---------- Welcome To Facebook BruteForce ----------\n')
+    print('\n---------- Welcome To The World Sexurity ----------\n')
 
     if not os.path.isfile(PASSWORD_FILE):
 
